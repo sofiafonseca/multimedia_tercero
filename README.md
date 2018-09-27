@@ -2,7 +2,16 @@
 
 ## Este el h2
 
-Esto es el párrafo 
+Esto es el párrafo  `esto es para codigo`
+
+```
+esto
+es
+para
+lineas
+de
+codigo
+```
 
 **negrita** y *cursiva*
 Primera clase: Multimedia 2
